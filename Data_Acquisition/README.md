@@ -7,4 +7,4 @@
    n is number of samples
    FileA.dat is file name for data storage
 
-   We aquired data for 20 seconds
+   We aquired data for 20 seconds. Here i attach sample Data sets: https://drive.google.com/open?id=1YIdwTosyEtAkbIPB0Ztcz2LZS60DGzWU
