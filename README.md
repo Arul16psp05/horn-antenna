@@ -7,5 +7,5 @@ This Repository contains three sections,
 3. Rotation_curve :
     This section have code for calculate the rotation curve of Milky-way galaxy using the dopplershift of the frequency. 
     
-
+We aquired data for 20 seconds. Here i attach sample Data sets: https://drive.google.com/open?id=1YIdwTosyEtAkbIPB0Ztcz2LZS60DGzWU
     
