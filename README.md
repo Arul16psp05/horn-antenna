@@ -23,5 +23,4 @@ http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/h21.html
 lecture hyperfine structure by G Srinivasan 2018
 L2 – Spontaneous and Stimulated emission of radiation: https://www.youtube.com/watch?v=o_h8djx68tw
 
-Chera 2018
-21 cm Horn receiver with SDR: https://sites.google.com/view/eeg2018
+Chera 2018- 21 cm Horn receiver with SDR: https://sites.google.com/view/eeg2018
